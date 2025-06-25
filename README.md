@@ -144,11 +144,7 @@ cd tezda-task
 flutter pub get
 ```
 
-3. Configure Firebase
-   - Add your `google-services.json` (Android)
-   - Add your `GoogleService-Info.plist` (iOS)
-
-4. Run the app
+3. Run the app
 ```bash
 flutter run
 ```
