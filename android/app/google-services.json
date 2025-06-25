@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842639961599",
+    "project_id": "tezda-be",
+    "storage_bucket": "tezda-be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842639961599:android:3aed120b86263c1aef4bca",
+        "android_client_info": {
+          "package_name": "com.example.tezda_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7slhvRBInJ7yVzhPJNHp_zYb8OZT90NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
